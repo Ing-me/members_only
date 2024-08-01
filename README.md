@@ -1,24 +1,4 @@
-# README
+# MEMBERS ONLY PROJECT
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is about tot create a clubhouse where the members can write anonymous posts. Members will be able to see who is the author of a post inside, but outside, they can only see the story and wonder who wrote it.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
